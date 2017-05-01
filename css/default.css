@@ -11,7 +11,8 @@ h2 span{
   color:#696969;
   border:#191970 1px dotted;
   border-left:#191970 5px solid;
-  padding: 5px 15px;
+  margin-bottom: 0;
+  padding: 5px 50px;
 }
 
 
