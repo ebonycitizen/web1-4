@@ -8,4 +8,10 @@ body{
 
 h2 span{
   font-weight: bold;
+  color:#696969;
+  border:#191970 1px dotted;
+  border-left:#191970 5px solid;
+  padding: 5px 15px;
 }
+
+
