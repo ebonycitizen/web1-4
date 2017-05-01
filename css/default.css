@@ -20,6 +20,10 @@ h2 span{
 }
 
 .test{
-  font-size:0.5em;
+  font-size:15px;
   text-decoration:underline;
+}
+
+.test:firstLetter{
+  font-size:23px;
 }
