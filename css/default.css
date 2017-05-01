@@ -24,6 +24,6 @@ h2 span{
   text-decoration:underline;
 }
 
-.test:firstLetter{
+.test:first-letter{
   font-size:23px;
 }
