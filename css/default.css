@@ -5,3 +5,7 @@ body{
   background-image: url(../img/beach.jpg);
   background-repeat: no-repeat;
 }
+
+p span{
+  font-weight: bold;
+}
