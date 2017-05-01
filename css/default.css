@@ -3,5 +3,5 @@
 body{
   background-color: #b0c4de;
   background-image: url(../img/beach.jpg);
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
 }
